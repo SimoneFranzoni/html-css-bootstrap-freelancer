@@ -1,0 +1,60 @@
+.sf-bg-blue{
+    background-color: blue;
+}
+
+.sf-mt-90{
+    margin-top: 80px;
+}
+
+.sf-py-50{
+    padding: 50px 0;
+}
+
+.sf-bg-green{
+    background-color: green;
+}
+
+header{
+    height: 80px;
+    color: white;
+}
+
+.sf-jumbo-inner{
+    width: 800px;
+    height: 400px;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.sf-box{
+    background-color: black;
+    height: 300px;
+    margin: 10px;
+}
+
+.sf-box-about{
+    background-color: black;
+    height: 200px;
+    
+}
+
+.sf-container-70{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.sf-height-300{
+    height: 300px;
+}
+
+.sf-top-footer{
+    background-color: #39546D;
+    color: white;
+}
+
+.sf-botton-footer{
+    padding: 30px 0;
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+}
